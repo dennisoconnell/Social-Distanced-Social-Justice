@@ -5,7 +5,7 @@
    <nav class="flex items-center justify-between flex-wrap bg-teal-500 p-6">
   <div class="flex items-center flex-shrink-0 text-white mr-6">
     <svg class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" xmlns="http://www.w3.org/2000/svg"><path d="M13.5 22.1c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05zM0 38.3c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05z"/></svg>
-    <span class="font-semibold text-xl tracking-tight">Tailwind CSS</span>
+    <span class="font-semibold text-xl tracking-tight">Social Distanced Social Justice</span>
   </div>
   <div class="block lg:hidden">
     <button class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
@@ -14,25 +14,112 @@
   </div>
   <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
     <div class="text-sm lg:flex-grow">
+      
       <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
-        Docs
+        Resources
       </a>
       <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
-        Examples
+        Getting Involved
       </a>
       <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
-        Blog
+        About Us
       </a>
     </div>
-    <div>
-      <a href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Download</a>
-    </div>
+    
   </div>
 </nav>
     <!-- header ends here -->
 
 
+    <body class="bg-gray-100 text-gray-700  font-sans quicksand">
+
+  <div class="p-16">
+    <div class="grid md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-3 m-5 mb-10">
+
+
+            <div class="bg-white overflow-hidden hover:bg-green-100 border border-gray-200 p-3">
+        <div class="m-2 text-justify text-sm">
+            <p class="text-right text-xs">May 17, 2020</p>
+            <h2 class="font-bold text-lg h-2 mb-8">Blog Post Title </h2>
+            <p class="text-xs">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+
+        </div>
+        <div class="w-full text-right mt-4">
+          <a class="text-green-400 uppercase font-bold text-sm" href="#">Read More</a>
+        </div>
+    </div>
+          <div class="bg-white overflow-hidden hover:bg-green-100 border border-gray-200 p-3">
+        <div class="m-2 text-justify text-sm">
+            <p class="text-right text-xs">May 17, 2020</p>
+            <h2 class="font-bold text-lg h-2 mb-8">Blog Post Title </h2>
+            <p class="text-xs">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+
+        </div>
+        <div class="w-full text-right mt-4">
+          <a class="text-green-400 uppercase font-bold text-sm" href="#">Read More</a>
+        </div>
+    </div>
+          <div class="bg-white overflow-hidden hover:bg-green-100 border border-gray-200 p-3">
+        <div class="m-2 text-justify text-sm">
+            <p class="text-right text-xs">May 17, 2020</p>
+            <h2 class="font-bold text-lg h-2 mb-8">Blog Post Title </h2>
+            <p class="text-xs">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+
+        </div>
+        <div class="w-full text-right mt-4">
+          <a class="text-green-400 uppercase font-bold text-sm" href="#">Read More</a>
+        </div>
+    </div>
+          <div class="bg-white overflow-hidden hover:bg-green-100 border border-gray-200 p-3">
+        <div class="m-2 text-justify text-sm">
+            <p class="text-right text-xs">May 17, 2020</p>
+            <h2 class="font-bold text-lg h-2 mb-8">Blog Post Title </h2>
+            <p class="text-xs">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+
+        </div>
+        <div class="w-full text-right mt-4">
+          <a class="text-green-400 uppercase font-bold text-sm" href="#">Read More</a>
+        </div>
+    </div>
+          <div class="bg-white overflow-hidden hover:bg-green-100 border border-gray-200 p-3">
+        <div class="m-2 text-justify text-sm">
+            <p class="text-right text-xs">May 17, 2020</p>
+            <h2 class="font-bold text-lg h-2 mb-8">Blog Post Title </h2>
+            <p class="text-xs">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+
+        </div>
+        <div class="w-full text-right mt-4">
+          <a class="text-green-400 uppercase font-bold text-sm" href="#">Read More</a>
+        </div>
+    </div>
+          <div class="bg-white overflow-hidden hover:bg-green-100 border border-gray-200 p-3">
+        <div class="m-2 text-justify text-sm">
+            <p class="text-right text-xs">May 17, 2020</p>
+            <h2 class="font-bold text-lg h-2 mb-8">Blog Post Title </h2>
+            <p class="text-xs">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+
+        </div>
+        <div class="w-full text-right mt-4">
+          <a class="text-green-400 uppercase font-bold text-sm" href="#">Read More</a>
+        </div>
+    </div>
     
+    </div>
+  </div>
+
+</body>
 
 
 

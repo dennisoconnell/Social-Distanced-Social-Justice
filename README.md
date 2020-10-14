@@ -1,4 +1,4 @@
-# socialdistancedsj
+# Social Distanced Social Justice
 
 ## Build Setup
 

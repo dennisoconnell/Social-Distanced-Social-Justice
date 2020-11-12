@@ -1,0 +1,16 @@
+[
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug?",
+    "component": "C:\\\\Users\\\\docon\\\\Documents\\\\Github\\\\Social-Distanced-Social-Justice\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_e44ba4cc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\docon\\\\Documents\\\\Github\\\\Social-Distanced-Social-Justice\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a9f20278"
+  }
+]
